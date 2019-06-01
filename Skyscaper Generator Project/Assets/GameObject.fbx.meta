@@ -1,0 +1,227 @@
+fileFormatVersion: 2
+guid: 21b7df69bf43a284b88d66c3c6df3f44
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Additions
+    100002: Additions_1
+    100004: Additions_2
+    100006: cp0a
+    100008: cp0a_1
+    100010: cp0a_2
+    100012: cp0b
+    100014: cp0b_1
+    100016: cp0b_2
+    100018: cp1a
+    100020: cp1a_1
+    100022: cp1a_2
+    100024: cp1b
+    100026: cp1b_1
+    100028: cp1b_2
+    100030: //RootNode
+    100032: LineRenderer
+    100034: LineRenderer_1
+    100036: LineRenderer_2
+    100038: p0
+    100040: p0_1
+    100042: p0_2
+    100044: p1
+    100046: p1_1
+    100048: p1_2
+    100050: p2
+    100052: p2_1
+    100054: p2_2
+    100056: Skyscraper
+    100058: Skyscraper__1_
+    100060: Skyscraper__2_
+    400000: Additions
+    400002: Additions_1
+    400004: Additions_2
+    400006: cp0a
+    400008: cp0a_1
+    400010: cp0a_2
+    400012: cp0b
+    400014: cp0b_1
+    400016: cp0b_2
+    400018: cp1a
+    400020: cp1a_1
+    400022: cp1a_2
+    400024: cp1b
+    400026: cp1b_1
+    400028: cp1b_2
+    400030: //RootNode
+    400032: LineRenderer
+    400034: LineRenderer_1
+    400036: LineRenderer_2
+    400038: p0
+    400040: p0_1
+    400042: p0_2
+    400044: p1
+    400046: p1_1
+    400048: p1_2
+    400050: p2
+    400052: p2_1
+    400054: p2_2
+    400056: Skyscraper
+    400058: Skyscraper__1_
+    400060: Skyscraper__2_
+    2100000: Post0
+    2100002: Glass
+    2100004: Spacer
+    2100006: Red
+    2100008: Blue
+    2300000: cp0a
+    2300002: cp0a_1
+    2300004: cp0a_2
+    2300006: cp0b
+    2300008: cp0b_1
+    2300010: cp0b_2
+    2300012: cp1a
+    2300014: cp1a_1
+    2300016: cp1a_2
+    2300018: cp1b
+    2300020: cp1b_1
+    2300022: cp1b_2
+    2300024: p0
+    2300026: p0_1
+    2300028: p0_2
+    2300030: p1
+    2300032: p1_1
+    2300034: p1_2
+    2300036: p2
+    2300038: p2_1
+    2300040: p2_2
+    2300042: Skyscraper
+    2300044: Skyscraper__1_
+    2300046: Skyscraper__2_
+    3300000: cp0a
+    3300002: cp0a_1
+    3300004: cp0a_2
+    3300006: cp0b
+    3300008: cp0b_1
+    3300010: cp0b_2
+    3300012: cp1a
+    3300014: cp1a_1
+    3300016: cp1a_2
+    3300018: cp1b
+    3300020: cp1b_1
+    3300022: cp1b_2
+    3300024: p0
+    3300026: p0_1
+    3300028: p0_2
+    3300030: p1
+    3300032: p1_1
+    3300034: p1_2
+    3300036: p2
+    3300038: p2_1
+    3300040: p2_2
+    3300042: Skyscraper
+    3300044: Skyscraper__1_
+    3300046: Skyscraper__2_
+    4300000: Skyscraper
+    4300002: p0
+    4300004: cp0a
+    4300006: cp0b
+    4300008: p1
+    4300010: cp1a
+    4300012: cp1b
+    4300014: p2
+    4300016: Skyscraper__1_
+    4300018: p0_1
+    4300020: cp0a_1
+    4300022: cp0b_1
+    4300024: p1_1
+    4300026: cp1a_1
+    4300028: cp1b_1
+    4300030: p2_1
+    4300032: Skyscraper__2_
+    4300034: p0_2
+    4300036: cp0a_2
+    4300038: cp0b_2
+    4300040: p1_2
+    4300042: cp1a_2
+    4300044: cp1b_2
+    4300046: p2_2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
